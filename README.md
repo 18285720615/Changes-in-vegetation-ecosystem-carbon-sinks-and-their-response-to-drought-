@@ -7,7 +7,8 @@ Changes in net ecosystem productivity (NEP) in karst areas can have a significan
 # Folders:
 **DFMI-data**: Drought fluorescence monitoring index (DFMI) dataset<br />
 **raster-data**: NEP dataset<br />
-**table-data**: Accuracy verification of simulation results (including validation of NEP, NPP and Rh); Area percentage of changes in the three drought monitoring indices
+**table-data**: Accuracy verification of simulation results (including validation of NEP, NPP and Rh); Area percentage of changes in the three drought monitoring indices<br />
+**Lagged effects-results**: Lagged effects of DFMI on vegetation NEP
 
 # Scripts:
 **ridge regression core code.m**: The main code for running the ridge regression model<br />
