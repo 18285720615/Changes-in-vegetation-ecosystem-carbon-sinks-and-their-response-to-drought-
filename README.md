@@ -13,3 +13,6 @@ Changes in net ecosystem productivity (NEP) in karst areas can have a significan
 # Scripts:
 **ridge regression core code.m**: The main code for running the ridge regression model<br />
 **Rh verification.py**: Soil heterotrophic respiration (Rh) verification code
+
+# Citations:
+Shunfu Yang, Yuan Li, Yuluan Zhao, Anjun Lan, Chunfang Zhou, Hongxing Lu, Luanyu Zhou. Changes in vegetation ecosystem carbon sinks and their response to drought in the karst concentration distribution area of Asia. Ecological Informatics. 2024, 84: 102907. https://doi.org/10.1016/j.ecoinf.2024.102907.
